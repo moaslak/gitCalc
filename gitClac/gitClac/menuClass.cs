@@ -9,12 +9,24 @@ public class menuClass
 
     public menuClass()
     {
-        Console.Write($"Vælg regnemetode: {}");
-        var menu = 
-            switch(Tal1, Tal2)
-            {
+        int operation = 0;
+        Calc calc = new Calc();
+        
+            switch (operation)
+          {
             case 1:
-
+                calc.plus(Tal1, Tal1);
+                break;
+            case 2:
+                calc.minus(Tal1, Tal1);
+                break;
+            case 3:
+                calc.multiply(Tal1, Tal1);
+                break;
+            case 4:
+                calc.div(Tal1, Tal1);
+                break;
             }
     }
+
 }
