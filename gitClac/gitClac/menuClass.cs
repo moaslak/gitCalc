@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace gitClac
+namespace gitClac;
+
+public class menuClass
 {
-    internal class menuClass
+    public double Tal1 { get; set; }
+    public double Tal2 { get; set; }
+
+    public menuClass()
     {
+
     }
 }
