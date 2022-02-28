@@ -16,34 +16,34 @@ public class menuClass
             switch (operation)
           {
             case 1:
-                Console.Write("Input Tal1; ");
+                Console.Write("Input Tal1: ");
                 double.TryParse(Console.ReadLine(), out Tal1);
-                Console.Write("Input Tal2; ");
+                Console.Write("Input Tal2: ");
                 double.TryParse(Console.ReadLine(), out Tal2);
 
                 Console.WriteLine(calc.plus(Tal1, Tal2).ToString());
                 break;
             case 2:
-                Console.Write("Input Tal1; ");
+                Console.Write("Input Tal1: ");
                 double.TryParse(Console.ReadLine(), out Tal1);
-                Console.Write("Input Tal2; ");
+                Console.Write("Input Tal2: ");
                 double.TryParse(Console.ReadLine(), out Tal2);
 
                 Console.WriteLine(calc.minus(Tal1, Tal2).ToString());
                 break;
             case 3:
-                Console.Write("Input Tal1; ");
+                Console.Write("Input Tal1: ");
                 double.TryParse(Console.ReadLine(), out Tal1);
-                Console.Write("Input Tal2; ");
+                Console.Write("Input Tal2: ");
                 double.TryParse(Console.ReadLine(), out Tal2);
 
                 Console.WriteLine(calc.multiply(Tal1, Tal2).ToString());
                 
                 break;
             case 4:
-                Console.Write("Input Tal1; ");
+                Console.Write("Input Tal1: ");
                 double.TryParse(Console.ReadLine(), out Tal1);
-                Console.Write("Input Tal2; ");
+                Console.Write("Input Tal2: ");
                 double.TryParse(Console.ReadLine(), out Tal2);
 
                 Console.WriteLine(calc.div(Tal1, Tal2).ToString());
