@@ -1,0 +1,15 @@
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\bin\Debug\net6.0\gitClac.exe
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\bin\Debug\net6.0\gitClac.deps.json
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\bin\Debug\net6.0\gitClac.runtimeconfig.json
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\bin\Debug\net6.0\gitClac.dll
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\bin\Debug\net6.0\gitClac.pdb
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.csproj.AssemblyReference.cache
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.AssemblyInfoInputs.cache
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.AssemblyInfo.cs
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.csproj.CoreCompileInputs.cache
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.dll
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\refint\gitClac.dll
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.pdb
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\gitClac.genruntimeconfig.cache
+C:\Dropbox\repos\CSharp\gitCalc\gitClac\gitClac\obj\Debug\net6.0\ref\gitClac.dll
