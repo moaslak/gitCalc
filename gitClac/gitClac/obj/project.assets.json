@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Moaslak\\.nuget\\packages\\": {},
+    "C:\\Users\\Stefan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dropbox\\repos\\CSharp\\gitCalc\\gitClac\\gitClac\\gitClac.csproj",
+      "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\FællesLommeRegner\\gitClac\\gitClac\\gitClac.csproj",
       "projectName": "gitClac",
-      "projectPath": "C:\\Dropbox\\repos\\CSharp\\gitCalc\\gitClac\\gitClac\\gitClac.csproj",
-      "packagesPath": "C:\\Users\\Moaslak\\.nuget\\packages\\",
-      "outputPath": "C:\\Dropbox\\repos\\CSharp\\gitCalc\\gitClac\\gitClac\\obj\\",
+      "projectPath": "C:\\Users\\Stefan\\Desktop\\FællesLommeRegner\\gitClac\\gitClac\\gitClac.csproj",
+      "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stefan\\Desktop\\FællesLommeRegner\\gitClac\\gitClac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Moaslak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
